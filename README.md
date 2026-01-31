@@ -2,19 +2,65 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yeager_vo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vo.uc.thinh.395758/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeager_vo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8Bnh-v%C3%B5-7818a8392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thinhducvo763@gmail.com) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cocos Creator](https://img.shields.io/badge/cocoscreator-%23000000.svg?style=for-the-badge&logo=cocoscreator&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThinhDucVo763&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThinhDucVo763&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinhDucVo763&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThinhDucVo763&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💼 Work Experience
+  🎮 Game Developer
+  
+  Develop and maintain games using Unity (C#) and Cocos Creator for outsourcing projects.
 
-### ✍️ Dev Quote
+  Design and implement client-side architecture, core game logic, and scalable systems.
+  
+  Build data-driven user interface systems using UI frameworks, processing and synchronizing data from backend services in real time.
+  
+  Integrate backend services via authenticated RESTful APIs (GET/POST/PUT) and socket communication.
+  
+  Handle complex data streams to ensure real-time synchronization between server data and the in-game user interface.
+  
+  Integrate third-party software such as Sendbird, Firebase, etc., to implement real-time features such as chat and live streaming.
+  
+  Optimize game performance across platforms; implement advertising, localization, and social media login (Facebook, Google, Apple).
+  
+  Collaborate closely with backend teams to fine-tune data structures, API contracts, and real-time workflows.
+
+
+## 🛠️ Skills
+
+  Project & Teamwork
+  
+  Software project management using GitLab, GitHub, SourceTree, Jira, Nulab
+  
+  Time estimation and task management
+  
+  Strong team collaboration in outsourcing projects
+  
+  Game Development & Platforms
+  
+  Game development with Unity (C#) and Cocos Creator
+  
+  Build & deploy for iOS, Android, WebGL
+  
+  UI/UX optimization and performance tuning
+  
+  Architecture & Frameworks
+  
+  Applied design patterns in game development (Singleton, Service Locator)
+  
+  Experience working with large-scale frameworks for UI and gameplay systems
+  
+  Proficient with Unity packages & development tools
+
+
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Project
+
+## 🔝 Top Contributed Project
   ## 🎮 BOUNTY HUNTER
   ![Gameplay Screenshot](https://play-lh.googleusercontent.com/qR-4seXGf9DXwmX0NaulO1SOMPk-CSP64jm1IsYOQQsxMeHmIKJ4D3bnbmtKJKC2Dm5xbVCuQaa2Lad7jfru7Q=w526-h296-rw)
   ![Gameplay Screenshot](https://play-lh.googleusercontent.com/D3PwWXMN7TOW8exgTU03wVAYakqXAMaij0cFbMC4xSm7sVXps626RoTZfzS3uNFxLzo6D5-1rZAddiK3zSPfGFM=w526-h296-rw)
