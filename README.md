@@ -1,4 +1,3 @@
-<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/9f607755-f597-42eb-a849-d56f378d68db" /><img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/4f34f0a5-17c0-4e3c-991b-e5fd11defdce" />
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yeager_vo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vo.uc.thinh.395758/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeager_vo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8Bnh-v%C3%B5-7818a8392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thinhducvo763@gmail.com) 
 
@@ -17,14 +16,34 @@
 
 ### 🔝 Top Contributed Project
   ## 🎮 BOUNTY HUNTER
-  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/8ZeAe6y1wYg5GOh6DPdtI8iBsJjfNhLDyar2CDpWFzceWmqMqRwY_g5dNszdajHMyBDg3OXAhf23zsWWxVOloXE=w526-h296-rw)
+  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/qR-4seXGf9DXwmX0NaulO1SOMPk-CSP64jm1IsYOQQsxMeHmIKJ4D3bnbmtKJKC2Dm5xbVCuQaa2Lad7jfru7Q=w526-h296-rw)
+  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/D3PwWXMN7TOW8exgTU03wVAYakqXAMaij0cFbMC4xSm7sVXps626RoTZfzS3uNFxLzo6D5-1rZAddiK3zSPfGFM=w526-h296-rw)
+  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/vuVk4olMHJhy1Ip4SSytH5iDdOzrcnxWa_RJIiAd9kD53pnA4Foeu0FL8lIcCo-bXpRXE6JYc6N5R-rUb2GASA=w526-h296-rw)
+  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/4WTBYF3zXiOEuKhYNywXsvfoIy56LJJ_bDYsKtoQkn7WmcaDAPSSo6AMaTNV37t1yP0jb6b5TV7VTaTD-213=w526-h296-rw)
+  
+  ⬇️ **Download :**  
+  [Download Game (Android)](https://play.google.com/store/apps/details?id=com.joyboygames.bountyhunters)
+  [Download Game (IOS)](https://apps.apple.com/vn/app/bounty-hunters/id6739280497?l=vi)
+  
+🚀 Features & Experience
+
+  Developed games using Unity (C#) for Japanese-market outsourcing projects.
+  
+  Implemented gameplay logic and scalable UI/UX systems using UI frameworks.
+  
+  Built data-driven UI systems that process and synchronize data from backend services.
+  
+  Integrated backend APIs with authenticated REST (GET/POST/PUT) and socket communication.
+  
+  Enabled real-time data synchronization between server and in-game UI.
+  
+  Integrated Sendbird, PubBub, Firebase... for real-time features such as chat and livestream.
+  
+  Optimize performance across platforms; implemented ads, localization, and social login (Google, Apple).
   
   
-  ## 📦 Features
-  - Core gameplay prototype
-  - Real-time interaction
-  - Unity + Firebase
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinhDucVo763&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
