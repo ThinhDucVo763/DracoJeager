@@ -1,4 +1,4 @@
-
+<img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/9f607755-f597-42eb-a849-d56f378d68db" /><img width="166" height="296" alt="image" src="https://github.com/user-attachments/assets/4f34f0a5-17c0-4e3c-991b-e5fd11defdce" />
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yeager_vo) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vo.uc.thinh.395758/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeager_vo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8Bnh-v%C3%B5-7818a8392/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thinhducvo763@gmail.com) 
 
@@ -12,12 +12,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThinhDucVo763&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThinhDucVo763&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+### 🔝 Top Contributed Project
+  ## 🎮 BOUNTY HUNTER
+  ![Gameplay Screenshot](https://play-lh.googleusercontent.com/8ZeAe6y1wYg5GOh6DPdtI8iBsJjfNhLDyar2CDpWFzceWmqMqRwY_g5dNszdajHMyBDg3OXAhf23zsWWxVOloXE=w526-h296-rw)
+  
+  
+  ## 📦 Features
+  - Core gameplay prototype
+  - Real-time interaction
+  - Unity + Firebase
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinhDucVo763&icon=0&color=0)](https://visitcount.itsvg.in)
 
