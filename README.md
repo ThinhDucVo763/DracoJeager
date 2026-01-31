@@ -86,8 +86,57 @@
   Integrated Sendbird, PubBub, Firebase... for real-time features such as chat and livestream.
   
   Optimize performance across platforms; implemented ads, localization, and social login (Google, Apple).
+
+
+  ## 🎮 TILES GO: MATCH PUZZLE GAME
+  ![Gameplay Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/57/7c/0a577c04-7980-b3c9-fce3-30d96dfb839e/cadeef61-d624-4e63-8a10-7bed473c5754_bdc67a4602d1ac8ff5c05.jpg/230x499bb.webp)
+  ![Gameplay Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/b0/c3/68b0c323-34fe-e0e5-6e66-dc465cd9fa63/59499c9f-ebfd-4396-b582-f6bc39e06d18_90708a8af21d5c43050c7.jpg/230x499bb.webp)
+  ![Gameplay Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/52/17/45521788-d384-d7a4-4dd0-b96a9df8bd75/d81fb2f5-c362-4809-b60b-9cf9db34d791_f64a87a00134af6af6253.jpg/230x499bb.webp)
+  ![Gameplay Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/0a/12/630a125d-bba9-d9df-13da-31c93b3f7fae/b4c3cfc8-3563-4456-b453-fd60ce607fcd_6528fdd87b4cd5128c5d2.jpg/230x499bb.webp)
   
+  ⬇️ **Download :**  
+  [Download Game (IOS)](https://apps.apple.com/vn/app/tiles-go-match-puzzle-game/id6479318035?l=vi)
   
+🚀 Features & Experience
+
+  Developed a Match-3 / Block Puzzle game using Unity (C#).
+  
+  Implemented core gameplay features including block matching, merging, combos, and chain reactions.
+  
+  Built a grid-based system to manage block movement, swapping, and clearing logic.
+  
+  Designed responsive UI/UX systems for smooth player interaction and feedback.
+  
+  Integrated data-driven UI synced with backend data.
+  
+  Supported real-time updates and live events via backend services.
+  
+  Optimized gameplay performance for mobile platforms.
+  
+  Designed systems with scalability in mind for future features and balancing.
+  
+
+  ## 🎮 TILES GO: ONET 1000 ANIMALS
+  ![Gameplay Screenshot](https://scontent.fdad1-2.fna.fbcdn.net/v/t39.2081-6/466627279_521141740915635_7269150647356396289_n.jpg?stp=c0.0.193.193a_dst-jpg_p192x192_tt6&_nc_cat=106&ccb=1-7&_nc_sid=ed3f67&_nc_ohc=uFtneWYv51YQ7kNvwHN6mjA&_nc_oc=AdmZAZvP7O4ydyr81JpDmIWFPNxQdf3kKFLFJrGzMCx0H5hN6NZzG-qz5ktvPHpfHhiiljFtQ0Pw1IJ6TEPpgYJQ&_nc_zt=14&_nc_ht=scontent.fdad1-2.fna&_nc_gid=C9t1xfn97kbk3saRtTbvYw&oh=00_AfvWU6mC6edAUE6WuDOrA8NkYbfR1W0FfALeLiQ4SG-vXw&oe=69837B83)
+
+
+  ⬇️ **Play game:**  
+  [Play Game (Facebook)](https://www.facebook.com/share/1GGozsmj5n/)
+  
+🚀 Features & Experience
+
+  Developed a Merge-2 / Pikachu-style puzzle game for Facebook Instant Games using Cocos Creator and TypeScript.
+  
+  Implemented core gameplay mechanics including block matching, merging, and clearing logic.
+  
+  Built a grid-based system to manage block states and game flow.
+  
+  Integrated Facebook SDK for user data storage and session management.
+  
+  Implemented Facebook Ads for in-game monetization.
+  
+  Optimized UI/UX and performance to meet Facebook Instant Games requirements.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinhDucVo763&icon=0&color=0)](https://visitcount.itsvg.in)
 
