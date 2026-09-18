@@ -140,5 +140,25 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ThinhDucVo763&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+  ## 🎮 Personal Project
+  
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/107f83b2-d6da-4a86-8f01-e2e92f91798a" />
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/967400a2-f727-4904-9d30-44dcd6cdffeb" />
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dcb1cde8-4a51-4ad8-80e7-aba949e80469" />
+
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/67152aa9-3f7f-42b7-82db-6cca62bf321e" />
+  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/c2bf070a-2608-4d3b-a4b8-2090d1060070" />
+
+  
+Combat & Movement action input buffering, state-driven attack combos, skill trees, dynamic stat scaling.
+
+hierarchical FSM with shared behaviors and unique boss phases. Modular Enemy & Boss Al
+
+RPG Core Systems - inventory, itemization, branching quests, and a persistent binary/JSON save-load pipeline.
+
+UI/UX Architecture - decoupled responsive UI, GM tools, dynamic attribute inspection, synchronized HUD.
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 **
